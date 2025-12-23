@@ -8,7 +8,12 @@ Atualmente estou focando em Python, SQL, Power BI e Pacote Office.
 - Análise da distância dos Planetas em relação ao Sol no Python;
 - Análise de preços no Python;
 - Análise de salários no Python;
-- Projeto Excel 
+- Projeto Excel (Analisando as vendas dos produtos);
+- Projeto Power BI (Analisando o faturamento dos dados fictícios);
+- Banners fictícios;
+- Análise de produtividade no Python
+- Relatório de Vendas e Devoluções no Power BI;
+- Mini Relatório e Consulta de Dados Simples no SQL
 
 **Contato**:
 - Email: matheus.nikitiniene2018@gmail.com
