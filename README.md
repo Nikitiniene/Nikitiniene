@@ -13,7 +13,8 @@ Atualmente estou focando em Python, SQL, Power BI e Pacote Office.
 - Banners fictícios;
 - Análise de produtividade no Python
 - Relatório de Vendas e Devoluções no Power BI;
-- Mini Relatório e Consulta de Dados Simples no SQL
+- Mini Relatório e Consulta de Dados Simples no SQL;
+- Jogo de interação no Python para descobrir o número escolhido.
 
 **Contato**:
 - Email: matheus.nikitiniene2018@gmail.com
