@@ -15,7 +15,8 @@ Atualmente estou focando em Python, SQL, Power BI e Pacote Office.
 - Relatório de Vendas e Devoluções no Power BI;
 - Mini Relatório e Consulta de Dados Simples no SQL;
 - Jogo de interação no Python para descobrir o número escolhido;
-- Mini projeto que exibe a quantidade de vendas e a soma das vendas.
+- Mini projeto que exibe a quantidade de vendas e a soma das vendas;
+- Sistema de Cadastro simples.
 
 **Contato**:
 - Email: matheus.nikitiniene2018@gmail.com
