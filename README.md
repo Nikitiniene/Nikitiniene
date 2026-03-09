@@ -17,7 +17,8 @@ Atualmente estou focando em Python, SQL, Power BI e Pacote Office.
 - Jogo de interação no Python para descobrir o número escolhido;
 - Mini projeto que exibe a quantidade de vendas e a soma das vendas;
 - Sistema de Cadastro simples;
-- Análise de Dados por Região usando dados fictícios.
+- Análise de Dados por Região usando dados fictícios;
+- Código em Java para calcular o IMC.
 
 **Contato**:
 - Email: matheus.nikitiniene2018@gmail.com
